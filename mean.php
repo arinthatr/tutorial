@@ -15,4 +15,5 @@ echo cari_mean([7, 7, 7, 7, 7]); // 7
 
 echo "Halo";
 echo "tambahan baru";
+echo "tambahan dari github";
 ?>
